@@ -249,7 +249,7 @@ export class SettingsWindow extends React.Component {
         {hr}
         {buttonForProperty(
           "showIfTakes",
-          "Show is move is taking piece",
+          "Show if move is taking piece",
           valsButtons
         )}
       </div>
